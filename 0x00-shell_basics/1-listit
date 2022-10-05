@@ -1,2 +1,3 @@
 #!/bin/bash
 downloads movies pictures videos docs
+ls
