@@ -1,1 +1,2 @@
-my next alx project
+#!/bin/bash
+ my next alx project
